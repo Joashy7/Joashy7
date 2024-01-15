@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/gBxP6oJ.gif" 
-     width="950" 
+     width="1000" 
      height="500" />
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
