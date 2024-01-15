@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joashy7" alt="joashy7" /></a> </p>
-
 - 🔭 I’m currently working on **Creating my Personal Website**
 
 - 🌱 I’m currently learning **React, Node.js, and C#**
