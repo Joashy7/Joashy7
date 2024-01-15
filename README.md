@@ -1,4 +1,4 @@
-[!MasterHead](https://www.istockphoto.com/vector/kids-learning-to-coding-programming-in-online-it-school-engineering-courses-in-gm1256473398-367905786)
+[![MasterHead](https://www.istockphoto.com/vector/kids-learning-to-coding-programming-in-online-it-school-engineering-courses-in-gm1256473398-367905786)
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/web-development-4179004">
