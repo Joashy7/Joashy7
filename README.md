@@ -1,3 +1,5 @@
+[![MasterHead](https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-08/image-blog-game-design-process.jpg?itok=vcYhmNKr)]
+
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
