@@ -1,5 +1,6 @@
-![MasterHead](https://i.imgur.com/gBxP6oJ.gif)
-
+<img src="https://i.imgur.com/gBxP6oJ.gif" 
+     width="400" 
+     height="500" />
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
