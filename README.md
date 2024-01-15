@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/gBxP6oJ)
+![MasterHead](https://i.imgur.com/gBxP6oJ.gif)
 
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
