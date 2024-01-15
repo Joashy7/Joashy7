@@ -1,4 +1,4 @@
-[![MasterHead](https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-08/image-blog-game-design-process.jpg?itok=vcYhmNKr)]
+![MasterHead](https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-08/image-blog-game-design-process.jpg?itok=vcYhmNKr)
 
 <h1 align="center">Hello 👋, my name is Joash Gem Marcos</h1>
 <h3 align="center">A Computer Enthusiast interested in Programming, Robotics, and Game Design</h3>
